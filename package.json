@@ -1,6 +1,19 @@
 {
-  "name": "browser-utils",
-  "version": "1.0.0",
+  "name": "@ryterpv/browser-utils",
+  "version": "9.9.9",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s2b1n0/test_dependency_conf2.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/s2b1n0/test_dependency_conf2/issues"
+  },
+  "homepage": "https://github.com/s2b1n0/test_dependency_conf2#readme",
+  "description": ""
 }
